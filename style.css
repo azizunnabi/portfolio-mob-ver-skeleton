@@ -368,7 +368,7 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-  font-family: "poppins";
+  font-family: "poppins", Times, serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
