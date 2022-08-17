@@ -55,7 +55,7 @@
   text-decoration: none;
   width: 76px;
   height: 20px;
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -123,7 +123,7 @@ a.inline {
 
 .h2 {
   margin-left: 30px;
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -176,7 +176,7 @@ a.inline {
 
   /* Body / 2 */
 
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -288,7 +288,7 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-  font-family: Poppins;
+  font: Poppins;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -315,7 +315,7 @@ h5 {
 
   /* Body / 3 */
 
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -341,7 +341,7 @@ h5 {
 
   /* Button / Small */
 
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -368,7 +368,7 @@ h5 {
 
   /* Caption / 1 - Bolder */
 
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -428,7 +428,7 @@ h5 {
 
   /* Button /Normal */
 
-  font-family: serif;
+  font: Poppins;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
