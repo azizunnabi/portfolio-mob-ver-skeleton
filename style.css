@@ -101,11 +101,10 @@ a.inline {
 }
 
 .section1 {
-  width: 375px;
+  width: 300px;
   padding-top: 55px;
   margin-top: 30px;
   padding-right: 60px;
-  display: flex;
 }
 
 .l1 {
